@@ -17,6 +17,7 @@ tidak terjadi apapun
 
 Sistem perlu memberikan informasi apabila pengguna memasukkan nilai false, maka terdapat keluaran “Registrasi ditolak. Silakan lunasi UKT terlebih dahulu”. Modifikasi program tersebut dengan menambahkan struktur ELSE!
 Jawaban:
+<img width="620" height="244" alt="image" src="https://github.com/user-attachments/assets/f7c21979-edc4-42f8-9dac-5b0c9f6e8a3c" />
 
 
 Commit dan push hasil modifikasi Anda ke Github dengan pesan “Modifikasi Percobaan 1” 
