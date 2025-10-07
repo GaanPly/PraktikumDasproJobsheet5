@@ -24,7 +24,7 @@ Jawaban:
 Commit dan push hasil modifikasi Anda ke Github dengan pesan “Modifikasi Percobaan 1” 
 Jawaban:
 
-<img width="625" height="206" alt="image" src="https://github.com/user-attachments/assets/b6f3a623-9189-467a-8c38-31f74c07f9ba" />
+<img width="625" height="206" alt="image" src="/FOTO/SS1.png" />
 
 
 Pertanyaan 2.2
