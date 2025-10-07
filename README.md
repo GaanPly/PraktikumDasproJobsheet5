@@ -44,3 +44,7 @@ Jawaban:
 <img width="625" height="206" alt="image" src="/FOTO/SS3.png" />
 
 Commit dan push hasil modifikasi Anda ke Github dengan pesan “Modifikasi Percobaan 2” 
+
+Jawaban:
+
+<img width="625" height="206" alt="image" src="/FOTO/SS2.png" />
