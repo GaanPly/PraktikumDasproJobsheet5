@@ -48,3 +48,5 @@ Jawaban:
 Jawaban:
 
 <img width="625" height="206" alt="image" src="/FOTO/SS2.png" />
+
+Pertanyaan 2.3
