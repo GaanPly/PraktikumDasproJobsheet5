@@ -24,7 +24,7 @@ Jawaban:
 Commit dan push hasil modifikasi Anda ke Github dengan pesan “Modifikasi Percobaan 1” 
 Jawaban:
 
-<img width="625" height="206" alt="image" src="/FOTO/SS1.png" />
+<img width="625" height="206" alt="image" src="/FOTO/SS2.png" />
 
 
 Pertanyaan 2.2
@@ -38,7 +38,9 @@ Jawaban:
 Sama seperti else di if else yaitu di jalankan ketika tidak ada case yang terpilih
 
 Buat file baru dengan nama ifElseCetakKRSNoPresensi.java. File ini berisi program hasil transformasi dari program cetak KRS menggunakan struktur SWITCH-CASE yang telah dibuat ke dalam bentuk IF-ELSE IF-ELSE.
+
 Jawaban:
 
+<img width="625" height="206" alt="image" src="/FOTO/SS3.png" />
 
 Commit dan push hasil modifikasi Anda ke Github dengan pesan “Modifikasi Percobaan 2” 
