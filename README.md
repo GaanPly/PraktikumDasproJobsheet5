@@ -8,14 +8,17 @@ Kelas	: TI 1C
 Pertanyaan 2.1
 
 Mengapa pengecekan pada struktur IF tersebut tidak melibatkan kondisi dengan operator relasional?
+
 Jawaban:
 Karena variabel yang dipakai sudah merupakan Boolean
 
 Saat program dijalankan, kemudian Anda mengisikan nilai false, bagaimana hasilnya?
+
 Jawaban:
 tidak terjadi apapun
 
 Sistem perlu memberikan informasi apabila pengguna memasukkan nilai false, maka terdapat keluaran “Registrasi ditolak. Silakan lunasi UKT terlebih dahulu”. Modifikasi program tersebut dengan menambahkan struktur ELSE!
+
 Jawaban:
 
 <img width="620" height="244" alt="image" src="https://github.com/user-attachments/assets/f7c21979-edc4-42f8-9dac-5b0c9f6e8a3c" />
@@ -30,10 +33,12 @@ Jawaban:
 Pertanyaan 2.2
 	
 Apa fungsi dari sintaks break?
+
 Jawaban:
 Agar kode tidak terus berlanjut
 
 Apa peran dari sintaks default pada struktur pemilihan SWITCH-CASE?
+
 Jawaban:
 Sama seperti else di if else yaitu di jalankan ketika tidak ada case yang terpilih
 
